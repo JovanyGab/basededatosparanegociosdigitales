@@ -67,3 +67,10 @@ go
 
 drop table tblVenta
 use Practica2
+
+
+--Practica 4
+create database Practica4
+use Practica4
+
+create table tbl
